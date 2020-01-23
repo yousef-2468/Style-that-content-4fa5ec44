@@ -1,0 +1,25 @@
+.navbar {
+	display: flex;
+	justify-content: space-around;
+	background: black;
+	text-transform: uppercase;
+	font-weight: bold;
+	color: orange;
+	border: solid blue 0.1em;
+}
+
+h1 {
+	width: 100%;
+	text-align: center;
+}	
+
+.content {
+	display: flex;
+	flex-wrap: wrap;
+	background: rgba(150, 150, 255, 0.2);
+	border: solid blue 0.1em;
+}
+
+.news {
+	width: 33%;
+}
